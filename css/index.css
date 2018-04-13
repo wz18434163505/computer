@@ -1,0 +1,104 @@
+/*
+* @Author: Administrator
+* @Date:   2018-03-07 16:28:02
+* @Last Modified by:   Administrator
+* @Last Modified time: 2018-03-08 20:05:31
+*/
+.computer{
+	width: 500px;
+	height: 888px;
+	background: yellow;
+	margin:0 auto; 
+}
+.head{
+	width: 100%;
+	height: 78px;
+	background: #00a5c4;
+}
+.window{
+	width: 100%;
+	height: 259px;
+	background: #f0f0f0;
+}
+.xiala{
+    width: 100%;
+	height: 47px;
+	background: #dfe3e4;
+}
+.jianpan{
+	width: 100%;
+	height: 504px;
+	background: #dde1e2
+}
+.anjian{
+	width: 123px;
+	height: 98px;
+	background: #fafafa;
+	float: left;
+	margin-right: 2px;
+	margin-bottom: 2px;
+	font-size: 38px;
+	font-family: "仿宋";
+	color: #20545e;
+	text-align: center;
+	line-height: 100px;
+}
+.anjian1{
+	width: 124px;
+}
+.anjian2{
+	margin-right: 0;
+}
+.anjian3{
+	margin-bottom: 0;
+	height: 104px;
+}
+.head_left{
+	width: 79px;
+	height: 78px;
+	font-size: 24px;
+	color: #ffffff;
+	/* 左浮动 */
+	float: left ;
+	/* 左间距 */
+	margin-left: 23px;
+	/* 文本垂直居中 */
+	line-height: 78px;
+}
+.head_right{
+	width: 7px;
+	height: 25px;
+	background: #00a5c4;
+	/* 右浮动 */
+	float: right ;
+	/* 右间距 */
+	margin-right: 30px;
+	/* 上间距 */
+	margin-top: 26px;
+}
+.circle{
+	width: 7px;
+	height: 7px;
+	/* 等高等宽的矩形50%border_radius就是圆 */
+	border-radius: 50%;
+	/* 下间距 */
+	margin-bottom: 2px;
+	background: #ffffff; 
+}
+.circle1{
+	margin-bottom: 0px;
+}
+.xialaxian{
+	width: 2px;
+	height: 76px;
+	background:#41b9d0;
+	margin-top: 8px;
+	margin-right: 15px; 
+	float: right;
+}
+.main{
+	width: 30px;
+	height: 100%;
+	background: red;
+	margin: 0 auto;
+}
